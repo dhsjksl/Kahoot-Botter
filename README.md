@@ -12,7 +12,7 @@ copy this code inside it EXACTLY except the title if you want to change that but
 
 package.json
 {
-"name": "kahoot-bot-by-Jeff",
+"name": "kahoot-bot-by-Jackson",
 "version": "1.0.0",
 "description": "",
 "main": "index.js",
